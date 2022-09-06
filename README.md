@@ -1,4 +1,5 @@
-<h1>Seir Fahim</h1>
+<h1 align: center;>Seir Fahim</h1>
+
 
 Email me at : muntasirf362@gmail.com
 
