@@ -3,9 +3,9 @@ Seir Fahim
 </h1>
 
 <p style="text-align:center;">
-👋 Muntasir Fahim / Seir 👋
+👋 Muntasir F/ Seir 👋
   <br>
-Currently a Senior in Highschool
+UMBC 
 
 muntasirf362@gmail.com <- for business inquiries
 
