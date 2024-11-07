@@ -5,7 +5,6 @@ Seir Fahim
 <p style="text-align:center;">
 👋 Muntasir F/ Seir 👋
   <br>
-UMBC 
 
 muntasirf362@gmail.com <- for business inquiries
 
